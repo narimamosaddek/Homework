@@ -1,7 +1,7 @@
 package hw3JavaVariablesDeclared;
 
 public class AboutMe {
-
+    //
 	// String, int, float, char,long,byte,short,double and boolean type variables to
 	// define myself
 	public String myName; // variable declared
