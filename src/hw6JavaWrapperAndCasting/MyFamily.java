@@ -8,9 +8,9 @@ public class MyFamily {
 	double child3Age = 30.25;
 	public int child4Age = 400;
 
-///Implemented a return type method below-
+//Implemented a return type method below-
 	public int myFamily() {
-		int sum =(int)(child1Age + child2Age +child3Age + child4Age); //
+		int sum = (int) (child1Age + child2Age + child3Age + child4Age); //
 		System.out.println("The sum of my childrens age is:" + sum);
 		return sum;
 	}
@@ -22,5 +22,4 @@ public class MyFamily {
 
 	}
 
-	
 }
